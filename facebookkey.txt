@@ -1,0 +1,5 @@
+auth-> go to faceboook developer dashboard
+step1-> Add a new app
+step2-> Add a product facebook login
+step3-> quick start site url-- http://localhost:4200/ and next, next
+step4-> App id is created
