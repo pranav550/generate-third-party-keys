@@ -1,0 +1,15 @@
+Auth->
+step1-- create project
+step2-- use libraray google+
+step3-- oath consent secreen give application name and save
+step4-- then credentials tab click create credentials and give 
+authoriused javascrpt origin -- http://localhost:4200
+authorised redirect url -- http://localhost:4200
+save
+
+key->
+
+step1-- create project
+step2-- use libraray anyone
+step3-- credentials tab choose none, restricrt and select the api and save 
+  
